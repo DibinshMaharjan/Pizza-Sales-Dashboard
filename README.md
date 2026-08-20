@@ -2,6 +2,10 @@
 
 A Power BI dashboard developed to analyze pizza sales performance and customer ordering patterns. The project demonstrates data transformation using Power Query, data modeling, DAX calculations, and interactive dashboard design.
 
+## Dashboard Preview
+
+![Pizza Sales Dashboard](images/dashboard.png)
+
 ## Project Objectives
 
 The dashboard was created to answer the following business questions:
