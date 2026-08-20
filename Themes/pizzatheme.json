@@ -1,0 +1,17 @@
+{
+  "name": "Pizza Theme",
+  "dataColors": [
+    "#D32F2F",
+    "#F5B041",
+    "#27AE60",
+    "#E67E22",
+    "#8B4513",
+    "#F4D03F"
+  ],
+  "background": "#EAD7B7",
+  "foreground": "#4A2C1A",
+  "tableAccent": "#D32F2F",
+  "good": "#27AE60",
+  "neutral": "#F5B041",
+  "bad": "#C0392B"
+}
