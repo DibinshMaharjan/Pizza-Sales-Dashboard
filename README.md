@@ -4,7 +4,7 @@ A Power BI dashboard developed to analyze pizza sales performance and customer o
 
 ## Dashboard Preview
 
-![Pizza Sales Dashboard](images/dashboard.png)
+![Pizza Sales Dashboard](images/dashboard.jpg)
 
 ## Project Objectives
 
